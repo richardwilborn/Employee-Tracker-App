@@ -1,0 +1,15 @@
+{
+  "name": "employeetrackerapp",
+  "version": "1.0.0",
+  "description": "Employee Tracker App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+  "author": "Richard",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.4",
+    "mysql2": "2.3.0"
+  }
+}
